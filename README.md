@@ -11,3 +11,7 @@ Persistent Storage
 Shuffled Suggestions
 
 Error Handling
+
+**Note**
+
+change the file path as per the txt file location in your system 
